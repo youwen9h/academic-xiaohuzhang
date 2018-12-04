@@ -10,31 +10,32 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Power System Planning",
+    "Electricity Market",
+    "Renewable Energy Integration",
+    "Optimization"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Electrical Enginnering and Computer Science"
+  institution = "University of Tennessee, Knoxville"
+  year = 2017
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MSC in Electric Power Engineering"
+  institution = "Royal Institute of Technology"
+  year = 2011
+
+[[education.courses]]
+  course = "BS in Electrical Engineering and Automation"
+  institution = "Huazhong University of Science and Technology"
   year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a power system engineer and researcher based at GEIRI North America. My research interests include… This website serves as my personal blog and repository of my work, ideas, and research.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Besides my research and work, I am passionate about soccer. Traveling is another big part of my life. I have lived, studied, and visited many countries including China, Sweden, Finland, Norway, Denmark, Germany, France, Switzerland, Italy, Spain, Austria, Belgium, US, Canada, Mexico…
