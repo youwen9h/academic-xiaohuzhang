@@ -21,6 +21,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Electrical Enginnering and Computer Science"
   institution = "University of Tennessee, Knoxville"
+  institution_url="https://www.utk.edu/"
   year = 2017
 
 [[education.courses]]
