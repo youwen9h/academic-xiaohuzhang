@@ -27,6 +27,7 @@ date_format = "January 2006"
   date_end = ""
   description = """
   Perform research projects on the following topics:
+  
   * Measurement-based voltage stability assessment
   * Mixed-mode Operation & Stacked Value of energy storage
   * PMU data analytics
@@ -52,6 +53,7 @@ date_format = "January 2006"
   date_end = "2017-01-31"
   description = """
   Perform research projects on the following topics:
+  
   * Electric power system operations with FACTS 
   * Power system transmission expansion planning
   * Large-scale integration of renewable energy resources
