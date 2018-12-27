@@ -1,3 +1,5 @@
++++
+
 title = "Optimal Allocation of Series FACTS Devices Under High Penetration of Wind Power Within a Market Environment"
 date = 2018-05-01T00:00:00
 draft = false
@@ -77,3 +79,5 @@ math = false
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
+
++++
