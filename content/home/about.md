@@ -36,6 +36,6 @@ weight = 5
 
 # Biography
 
-I am a power system engineer and researcher based at GEIRI North America. My research interests include… This website serves as my personal blog and repository of my work, ideas, and research.
+I am a power system research engineer at GEIRI North America. My research interests include power system planning, … This website serves as my personal blog and repository of my work, ideas, and research.
 
 Besides my research and work, I am passionate about soccer. Traveling is another big part of my life. I have lived, studied, and visited many countries including China, Sweden, Finland, Norway, Denmark, Germany, France, Switzerland, Italy, Spain, Austria, Belgium, US, Canada, Mexico…
