@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Power System Planning",
     "Electricity Market",
-    "Renewable Energy Integration",
+    "Energy storage",
+    "PMU Data Analytics",
     "Optimization"
   ]
 
@@ -36,6 +37,6 @@ weight = 5
 
 # Biography
 
-I am a power system research engineer at GEIRI North America. My research interests include power system planning, voltage stability, energy storage, PMU data analytics and optimization
+I am a power system research engineer at GEIRI North America. My research interests include power system planning, voltage stability, energy storage, PMU data analytics and optimization.
 
 
