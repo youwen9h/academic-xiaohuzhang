@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Power System Planning",
-    "Electricity Market",
+    "Voltage Stability",
     "Energy storage",
     "PMU Data Analytics",
     "Optimization"
