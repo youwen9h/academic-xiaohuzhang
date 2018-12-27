@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Power System Planning",
     "Voltage Stability",
-    "Energy storage",
+    "Energy Storage",
     "PMU Data Analytics",
     "Optimization"
   ]
@@ -24,7 +24,7 @@ weight = 5
   year = 2017
 
 [[education.courses]]
-  course = "MSC in Electric Power Engineering"
+  course = "MSc in Electric Power Engineering"
   institution = "Royal Institute of Technology"
   year = 2011
 
