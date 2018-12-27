@@ -26,18 +26,36 @@ date_format = "January 2006"
   date_start = "2016-08-22"
   date_end = ""
   description = """
-  Responsibilities include:
+  Perform research projects on the following topics:
+  * Measurement-based voltage stability assessment
+  * Mixed-mode Operation & Stacked Value of energy storage
+  * PMU data analytics
+  """
   
-  * Research
+  [[experience]]
+  title = "Research Intern"
+  company = "Oak Ridge National Laboratory"
+  company_url = "https://www.ornl.gov/"
+  location = "Tennessee"
+  date_start = "2015-06-01"
+  date_end = "2015-08-01"
+  description = """
+  Perform research projects on power system transmission expansion planning.
   """
 
 [[experience]]
-  title = "Graduate Research Assistant"
+  title = "Graduate Research/Teaching Assistant"
   company = "University of Tennessee, Knoxville"
   company_url = "www.utk.edu"
   location = "Tennessee"
   date_start = "2011-08-01"
   date_end = "2017-01-31"
-  description = """Perform research projects relates to power system analysis."""
+  description = """
+  Perform research projects on the following topics:
+  * Electric power system operations with FACTS 
+  * Power system transmission expansion planning
+  * Large-scale integration of renewable energy resources
+  * Power electronics converter-based power system emulation
+  """
 
 +++
