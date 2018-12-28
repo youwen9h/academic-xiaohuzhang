@@ -19,8 +19,8 @@ authors = ["Guodong Liu","Tomas B. Ollis","Bailu Xiao","__**Xiaohu Zhang**__", "
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*in Proceedings of the PES GM*, Portland, 2018."
-publication_short = "*PES GM*"
+publication = "*in Proceedings of IEEE PES GM*, Portland, 2018."
+publication_short = "*IEEE PES GM*"
 
 # Abstract and optional shortened version.
 abstract = "In this paper, we propose networked microgrids to facilitate the integration of variable renewable generation and improve the economics and resiliency of electricity supply in microgrids. A new concept, probability of successful islanding (PSI) is used to quantify the islanding capability of a microgrid considering the uncertainty of renewable energy resources and load as well as exchanged power at PCC. With the goal of minimizing the total operating cost while preserving user specified PSI, a chance-constrained optimization problem is formulated for the optimal scheduling of both individual microgrid and networked microgrids. Numerical simulation results show significant saving in electricity cost can be achieved by proposed networked microgrids without compromising the resiliency. The impact of correlation coefficients among the renewable generation and load of adjacent microgrids has been studied as well."
