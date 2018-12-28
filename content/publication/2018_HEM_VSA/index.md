@@ -50,7 +50,7 @@ selected = false
 tags = ["Voltage Stability","Load Model","Induction Motor","Holomorphic Embedding","Dynamic Simulation"]
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/document/8493323"
+url_pdf = "https://ieeexplore.ieee.org/abstract/document/8493323"
 url_preprint = "https://xiaohuzhang.netlify.com/publication/2018_HEM_VSA/2018_HEM_VSA.pdf"
 #url_code = ""
 #url_dataset = ""
