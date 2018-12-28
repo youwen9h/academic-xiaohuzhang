@@ -47,7 +47,7 @@ selected = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Microgrid","Ditributed Generator","Reconnection","Distributed Control","Synchronization","Communication Latency"]
+tags = ["Optimal Power Flow","Tri-level Optimization","Robust optimization","Resilience"]
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/abstract/document/8490879"
