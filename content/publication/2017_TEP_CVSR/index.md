@@ -51,7 +51,7 @@ tags = ["Series FACTS","Transmission expansion Planning","Contingency","Reformul
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/abstract/document/7859423"
-url_preprint = "https://xiaohuzhang.netlify.com/publication/2018_TEP_CVSR/J_paper_3_final.pdf"
+url_preprint = "https://xiaohuzhang.netlify.com/publication/2017_TEP_CVSR/J_paper_3_final.pdf"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""
