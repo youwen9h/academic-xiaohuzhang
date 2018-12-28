@@ -1,7 +1,7 @@
 +++
 
 title = "Security Constrained Multi-Stage Transmission Expansion Planning Considering a Continuously Variable Series Reactor"
-date = 2017-011-01T00:00:00
+date = 2017-11-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
