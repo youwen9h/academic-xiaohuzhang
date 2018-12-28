@@ -1,7 +1,7 @@
 +++
 
-title = "Optimal Allocation of Series FACTS Devices Under High Penetration of Wind Power Within a Market Environment"
-date = 2018-05-01T00:00:00
+title = "Optimal allocation of series FACTS devices in large-scale systems"
+date = 2018-01-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -51,7 +51,7 @@ tags = ["Series FACTS","Large-scale system","Contingency","Decomposition"]
 
 # Links (optional).
 url_pdf = "https://digital-library.theiet.org/content/journals/10.1049/iet-gtd.2017.1223"
-url_preprint = "https://xiaohuzhang.netlify.com/publication/2018_Bilevel_FACTS/sfactsArxiv.pdf"
+url_preprint = "https://xiaohuzhang.netlify.com/publication/2018_IET/BD_IET_arxiv.pdf"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""
