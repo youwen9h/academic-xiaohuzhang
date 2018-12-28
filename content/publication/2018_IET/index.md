@@ -47,7 +47,7 @@ selected = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Series FACTS","Large-scale system","Contingency","Decomposition"]
+tags = ["Series FACTS","Large-scale system","Contingency","Reformulation and Decomposition"]
 
 # Links (optional).
 url_pdf = "https://digital-library.theiet.org/content/journals/10.1049/iet-gtd.2017.1223"
