@@ -19,7 +19,7 @@ authors = ["Liu Yang","Yiwei Ma","Jingxin Wang","Jing Wang","__**Xiaohu Zhang**_
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*in Proceedings of IEEE Energy Conversion Congress and Exposition (ECCE), 2014."
+publication = "*in Proceedings of IEEE Energy Conversion Congress and Exposition (ECCE)*, 2014."
 publication_short = "*IEEE ECCE*"
 
 # Abstract and optional shortened version.
