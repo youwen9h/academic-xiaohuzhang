@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*IEEE Transactions on Power Electronics*, vol. 32, no. 2, pp. 1651 - 1665, Feb. 2017."
-publication_short = "*IEEE Transactions on Power Electronics*, vol. 32, no. 2, pp. 1651 - 1665, Feb. 2017."
+publication_short = "*IEEE Transactions on Power Electronics*"
 
 # Abstract and optional shortened version.
 abstract = "This paper develops a synchronous generator emulator by using a three-phase voltage source converter for transmission level power system testing. Different interface algorithms are compared, and the voltage type ideal transformer model is selected considering accuracy and stability. At the same time, closed-loop voltage control with current feed-forward is proposed to decrease the emulation error. The emulation is then verified through two different ways. First, the output waveforms of the emulator in experiments are compared with the simulation under the same condition. Second, a transfer function perturbation-based error model is obtained and redefined as the relative error for the amplitude and phase between the emulated and the target system over the frequency range of interest. The major cause of the error is investigated through a quantitative analysis of the error with varying parameters."
