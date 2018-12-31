@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*IET Generation, Transmission & Distribution*, vol. 12, no. 8, pp. 1889 - 1896, Apr. 2018."
-publication_short = "*IET Generation, Transmission & Distribution*, vol. 12, no. 8, pp. 1889 - 1896, Apr. 2018."
+publication_short = "*IET Generation, Transmission & Distribution*"
 
 # Abstract and optional shortened version.
 abstract = "Series flexible AC transmission systems devices, such as the variable series reactor, have the ability to continuously regulate the transmission line reactance so as to control power flow. This study presents a new approach to optimally locating such devices in the transmission network considering multiple operating states and contingencies. To investigate optimal investment, a single target year planning with three different load patterns is considered. The transmission contingencies may occur under any of the three load conditions and the coupling constraints between base case and contingencies are included. A reformulation technique transforms the original mixed integer non-linear programming model into mixed integer linear programming model. To further relieve the computational burden and enable the planning model to be directly applied to practical large-scale systems, a two-phase decomposition algorithm is introduced. Detailed numerical simulation results on IEEE 118-bus system and the Polish 2383-bus system illustrate the efficient performance of the proposed algorithm."
