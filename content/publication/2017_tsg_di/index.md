@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*IEEE Transactions on Smart Grid*, vol. 9, no. 6, pp. 6646 - 6655, Nov. 2018."
-publication_short =  "*IEEE Transactions on Smart Grid*, vol. 9, no. 6, pp. 6646 - 6655, Nov. 2018."
+publication_short =  "*IEEE Transactions on Smart Grid*"
 
 # Abstract and optional shortened version.
 abstract = "One critical value microgrids brings to power systems is resilience, the capability of being able to island from the main grid under certain conditions and connect back when necessary. Once islanded, a microgrid must be synchronized to the main grid before reconnection to prevent severe consequences. In general, synchronization of a single machine with the grid can be easily achieved using a synchronizer. The problem becomes more challenging when it comes to a multi-bus microgrid with multiple distributed generators (DGs) and dispersed loads. All DGs need to be properly controlled in a coordinated way to achieve synchronization. This paper presents a novel bi-level distributed cooperative control framework for a multi-bus microgrid. In this framework, DGs work collaboratively in a distributed manner using minimum and sparse communication. The topology of the communication network can be flexible which supports the plug-and-play feature of microgrids. Fast and deterministic synchronization can be achieved with tolerance to communication latency. Experimental results obtained from hardware-in-the-loop simulation demonstrate the effectiveness of the proposed approach."
