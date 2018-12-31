@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*IEEE Transactions on Power Systems*, vol. 32, no. 6, pp. 4442 - 4450, Nov. 2017."
-publication_short = "*IEEE Transactions on Power Systems*, vol. 32, no. 6, pp. 4442 - 4450, Nov. 2017."
+publication_short = "*IEEE Transactions on Power Systems*"
 
 # Abstract and optional shortened version.
 abstract = "This paper introduces a continuously variable series reactor (CVSR) to the transmission expansion planning (TEP) problem. The CVSR is a flexible ac transmission system (FACTS)like device, which has the capability of controlling the overall impedance of the transmission line. However, the cost of the CVSR is about one-tenth of a similar rated FACTS device, which potentially allows large numbers of devices to be installed. The multi-stage TEP with the CVSR considering the N - 1 security constraints is formulated as a mixed-integer linear programming model. The nonlinear part of the power flow introduced by the variable reactance is linearized by a reformulation technique. To reduce the computational burden for a practical large-scale system, a decomposition approach is proposed. The detailed simulation results on the IEEE 24-bus and a more practical Polish 2383-bus system demonstrate the effectiveness of the approach. Moreover, the appropriately allocated CVSRs add flexibility to the TEP problem and allow reduced planning costs. Although the proposed decomposition approach cannot guarantee global optimality, a high-level picture of how the network can be planned reliably and economically considering CVSR is achieved."
