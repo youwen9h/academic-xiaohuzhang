@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*IEEE Access*, vol. 6, pp. 70633 - 70643, Oct. 2018."
-publication_short =  "*IEEE Access*, vol. 6, pp. 70633 - 70643, Oct. 2018."
+publication_short =  "*IEEE Access*"
 
 # Abstract and optional shortened version.
 abstract = "Due to significant losses caused by attacks on power grids, mitigation of transmission line attacks has drawn increasing attention in recent years. It is crucial to develop solutions to mitigate these potential damages. Therefore, this paper presents a novel operational strategy aimed at minimizing unserved energy under the worst-case attack on transmission lines of a power system with generators and utility-scale battery energy storage systems (BESS). The paper formulates a tri-level optimization problem to model interactions between the operator and the attacker. The upper-level problem represents normal operational actions to hedge against potential attacks and minimize operating costs. Then, the middle-level problem determines the attack strategy, including both attack time and lines to be attacked, to maximize impacts to the grid. The lower-level problem models actions of operators during restoration process by minimizing unserved energy. Column-and-Constraint Generation (C&CG) method is applied to solve the problem. Numerical case studies are conducted to demonstrate advantages of the proposed model in unserved energy reduction under the worst-case transmission line attack."
