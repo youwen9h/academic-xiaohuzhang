@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Energies*, vol. 10, pp. 1554, Oct. 2017."
-publication_short = "*Energies*, vol. 10, pp. 1554, Oct. 2017."
+publication_short = "*Energies*"
 
 # Abstract and optional shortened version.
 abstract = "This paper proposes a Mixed Integer Conic Programming (MICP) model for community microgrids considering the network operational constraints and building thermal dynamics. The proposed multi-objective optimization model optimizes not only the operating cost, including fuel cost, electricity purchasing/selling, storage degradation, voluntary load shedding and the cost associated with customer discomfort as a result of the room temperature deviation from the customer setting point, but also several performance indices, including voltage deviation, network power loss and power factor at the Point of Common Coupling (PCC). In particular, we integrate the detailed thermal dynamic model of buildings into the distribution optimal power flow (D-OPF) model for the optimal operation. Thus, the proposed model can directly schedule the heating, ventilation and air-conditioning (HVAC) systems of buildings intelligently so as to to reduce the electricity cost without compromising the comfort of customers. Results of numerical simulation validate the effectiveness of the proposed model and significant savings in electricity cost with network operational constraints satisfied."
