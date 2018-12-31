@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*CSEE Journal of Power and Energy Systems*, 2018."
-publication_short = "*CSEE Journal of Power and Energy Systems*, 2018."
+publication_short = "*CSEE Journal of Power and Energy Systems*"
 
 # Abstract and optional shortened version.
 abstract = "The Variable Series Reactors (VSRs) can efficiently control the power flow through the adjustment of the line reactance. When they are appropriately allocated in the power network, the transmission congestion and generation cost can be reduced. This paper proposes a planning model to optimally allocate VSRs considering AC constraints and multi-scenarios including base case and contingencies. The planning model is originally a non-convex large scale mixed integer nonlinear program (MINLP), which is generally intractable. The proposed Benders approach decomposes the MINLP model into a mixed integer linear program (MILP) master problem and a number of nonlinear subproblems. Numerical case studies based on IEEE 118-bus demonstrate the high performance of the proposed approach."
