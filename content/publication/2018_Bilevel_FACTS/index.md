@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*IEEE Transactions on Power Systems*, vol. 33, no. 6, pp. 6206 - 6217, Nov. 2018."
-publication_short = "*IEEE Transactions on Power Systems*, vol. 33, no. 6, pp. 6206 - 6217, Nov. 2018."
+publication_short = "*IEEE Transactions on Power Systems*."
 
 # Abstract and optional shortened version.
 abstract = "Series FACTS devices are one of the key enablers for very high penetration of renewables due to their capabilities in continuously controlling power flows on transmission lines. This paper proposes a bilevel optimization model to optimally locate variable series reactor and phase shifting transformer in the transmission network considering high penetration of wind power. The upper level problem seeks to minimize the investment cost on series FACTS, the cost of wind power curtailment, and possible load shedding. The lower level problems capture the market clearing under different operating scenarios. Due to the poor scalability of Bθ formulation, the shift factor structure of FACTS allocation is derived. A customized reformulation and decomposition algorithm is designed and implemented to solve the proposed bilevel model with binary variables in both upper and lower levels. Detailed numerical results based on 118-bus system demonstrate the efficient performance of the proposed planning model and the important role of series FACTS for facilitating the integration of wind power."
