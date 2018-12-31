@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*IEEE Transactions on Power Delivery*, vol. 33, no. 3, pp. 1081 - 1090, Jun. 2018."
-publication_short =  "*IEEE Transactions on Power Delivery*, vol. 33, no. 3, pp. 1081 - 1090, Jun. 2018."
+publication_short =  "*IEEE Transactions on Power Delivery*"
 
 # Abstract and optional shortened version.
 abstract = "Data quality of the phasor measurement unit (PMU) is receiving increasing attention as it has been identified as one of the limiting factors that affect many wide-area measurement system-based applications. In general, existing PMU calibration methods include offline testing and model-based approaches. However, in practice, the effectiveness of both is limited due to the very strong assumptions employed. This paper presents a novel framework for online bias error detection and the calibration of PMU measurements using density-based spatial clustering of applications with noise based on much relaxed assumptions. With a new problem formulation, the proposed data mining-based methodology is applicable across a wide spectrum of practical conditions and one side product of it is more accurate transmission-line parameters for energy-management system (EMS) database and protective relay settings. Case studies demonstrate the effectiveness of the proposed approach."
