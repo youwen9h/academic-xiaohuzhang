@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Electric Power Systems Research*, vol. 145, pp. 197-206, Apr. 2017."
-publication_short = "*Electric Power Systems Research*, vol. 145, pp. 197-206, Apr. 2017."
+publication_short = "*Electric Power Systems Research*"
 
 # Abstract and optional shortened version.
 abstract = "To facilitate the integration of variable renewable generation and improve the resilience of electricity supply in a microgrid, this paper proposes an optimal scheduling strategy for microgrid operation considering constraints of islanding capability. A new concept, probability of successful islanding (PSI), indicating the probability that a microgrid maintains enough spinning reserve (both up and down) to meet local demand and accommodate local renewable generation after instantaneously islanding from the main grid, is developed. The PSI is formulated as mixed-integer linear program using multi-interval approximation taking into account the probability distributions of forecast errors of wind, PV and load. With the goal of minimizing the total operating cost while preserving user specified PSI, a chance-constrained optimization problem is formulated for the optimal scheduling of mirogrids and solved by mixed integer linear programming (MILP). Numerical simulations on a microgrid consisting of a wind turbine, a PV panel, a fuel cell, a micro-turbine, a diesel generator and a battery demonstrate the effectiveness of the proposed scheduling strategy. The relationship between PSI and various factors are verified."
