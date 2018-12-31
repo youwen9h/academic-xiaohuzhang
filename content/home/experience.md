@@ -29,7 +29,7 @@ date_format = "January 2006"
   Perform research projects on the following topics:
   
   * Measurement-based voltage stability assessment
-  * Mixed-mode Operation & Stacked Value of energy storage
+  * Mixed-mode operation & stacked value of energy storage
   * PMU data analytics
   """
   
