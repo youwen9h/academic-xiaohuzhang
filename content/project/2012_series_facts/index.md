@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "Deadline Scheduling"
+title = "Electric Power System Operations with a Variable Series Reactor"
 
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2012-07-01T00:00:00
 
 # Project summary to display on homepage.
-summary = "Scheduling of jobs with deadlines, such as EV charging, internet streaming, and communications."
+summary = "Investigating different benefits introduced by FACTS in electric power system operations."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Machine Learning","Deadline Scheduling", "Restless Bandits"]
+tags = ["Series FACTS","Contingency", "Transmission planning","Transmission Expansion Planning"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = ""
@@ -37,12 +37,14 @@ tags = ["Machine Learning","Deadline Scheduling", "Restless Bandits"]
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo by Zhe Yu"
+  #caption = "Photo by Zhe Yu"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
-The deadline scheduling problem, in its most generic setting, is the scheduling of jobs with different workloads and deadlines for completion. Typically, not enough servers are available to satisfy all the demand; the cost of processing may vary with time and unfinished jobs incur penalties. 
-In this project, we are interested in the stochastic deadline scheduling problem where key parameters of the problem such as job arrivals,workloads, deadlines of completion, and processing costs are stochastic. In particular, we consider the problem of maximizing discounted rewards over an infinite scheduling horizon.
-A prototype application of such a problem is the charging of electric vehicles (EVs) at a charging service center. In such applications, EVs arrive at the service center randomly, each with its charging demand and deadline for completion. The charging cost depends on the cost of electricity at the time of charging, and a penalty is imposed when the service provider is unable to fulfill the request. Similar applications include the scheduling of packet transmission for real-time wireless networks, of jobs at data centers, of nursing personnel in hospitals, for internet streaming, and at customer service centers.
+Series FACTS devices, such as a Variable Series Reactor (VSR), have the ability to
+continuously regulate the transmission line reactance so as to control power flow. This
+research work evaluates the benefits brought by VSRs in different aspects of power
+system and develops efficient planning models and algorithms to provide optimal
+investment plan for the VSRs.
