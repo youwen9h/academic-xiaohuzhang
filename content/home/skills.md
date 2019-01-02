@@ -21,6 +21,22 @@ weight = 7
 # * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
+[[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "DSATools, PowerWorld, PSSE, BPA-PSD, PLEXOS"
+  description = ""
+  
+[[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "MATLAB, C++, Python"
+  description = ""
 
+[[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "GAMS, YALMIP, CPLEX, Gurobi"
+  description = ""
 
 +++
