@@ -3,7 +3,7 @@
 title = "An integrated online DSA system for security and risk assessment"
 
 # Date this page was created.
-date = 2017-10-01T00:00:00
+date = 2018-06-01T00:00:00
 
 # Project summary to display on homepage.
 summary = "Our research team with Powertech Labs, Canada, has been developing an integrated software system for large-scale power grid online security and risk assessment."
