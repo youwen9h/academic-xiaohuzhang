@@ -1,3 +1,4 @@
++++
 # Project title.
 title = "An integrated online DSA system for security and risk assessment"
 
@@ -41,4 +42,6 @@ tags = ["Online security assessment","Transient stability monitory", "Distribute
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
++++
+Our research team with Powertech Labs, Canada, has been developing an integrated software system for large-scale power grid online security and risk assessment with model validation capabilities using real-time node/breaker models and PMU measurements, which has been successfully deployed in the Grid Control Center at one of the largest provincial power systems in China. This software serves as a platform performing high-fidelity simulations for grid planning and operation, using multiple channels of real-time PMU measurements and node/breaker models. It lays a solid foundation for developing further advanced applications to enhance situational awareness.
 
