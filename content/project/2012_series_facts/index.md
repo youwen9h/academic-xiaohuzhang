@@ -6,7 +6,7 @@ title = "Electric Power System Operations with a Variable Series Reactor"
 date = 2012-07-01T00:00:00
 
 # Project summary to display on homepage.
-summary = "Investigating different benefits introduced by FACTS in electric power system operations."
+summary = "Investigating different benefits introduced by a variable series reactor in electric power system operations."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
