@@ -43,5 +43,5 @@ tags = ["Microgrids","Energy Storage", "Hardware-in-the-loop"]
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
-Voltage Stability is one of the major concerns for system operation. In this project, several real-time voltage stability assessment (VSA) approaches have been presented for both load bus and load area.
+Voltage Stability is one of the major concerns for system operation. In this project, several real-time voltage stability assessment (VSA) approaches have been investigated for both load bus and load area.
 
