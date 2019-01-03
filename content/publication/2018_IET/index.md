@@ -35,7 +35,7 @@ selected = true
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-#projects = ["home-energy-management"]
+projects = ["2012_series_facts"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
