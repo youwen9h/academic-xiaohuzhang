@@ -19,7 +19,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Electrical Enginnering and Computer Science"
+  course = "PhD in Electrical Engineering and Computer Science"
   institution = "University of Tennessee, Knoxville"
   institution_url="https://www.utk.edu/"
   year = 2017
