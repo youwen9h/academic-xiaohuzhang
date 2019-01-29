@@ -48,7 +48,7 @@ selected = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Hardware Testbed"]
+# tags = ["Hardware Testbed"]
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/document/6520618"
