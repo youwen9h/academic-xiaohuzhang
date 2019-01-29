@@ -34,7 +34,7 @@ date_format = "January 2006"
   """
   
   [[experience]]
-  title = "Research Intern"
+  title = "Intern"
   company = "Oak Ridge National Laboratory"
   company_url = "https://www.ornl.gov/"
   location = "Tennessee"
