@@ -36,7 +36,7 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-#projects = ["2011_htb"]
+# projects = ["2011_htb"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -44,7 +44,7 @@ selected = false
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-#slides = "example-slides"
+# slides = "example-slides"
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
