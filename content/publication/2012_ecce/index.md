@@ -37,7 +37,7 @@ selected = false
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 #projects = ["2011_htb"]
-projects=[]
+#projects=[]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
