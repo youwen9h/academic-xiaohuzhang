@@ -36,7 +36,7 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["2011_htb"]
+#projects = ["2011_htb"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -48,7 +48,7 @@ projects = ["2011_htb"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-#tags = ["Hardware Testbed"]
+tags = ["Hardware Testbed"]
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/document/6520618"
