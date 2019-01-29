@@ -36,7 +36,7 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-tags = ["Hardware Testbed"]
+# tags = ["Hardware Testbed"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
