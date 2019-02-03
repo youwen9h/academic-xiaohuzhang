@@ -23,15 +23,7 @@ publication = "*IET Generation, Transmission & Distribution*, 2019."
 publication_short = "*IET Generation, Transmission & Distribution*"
 
 # Abstract and optional shortened version.
-abstract = ": In this paper, a distributed energy management for community microgrids considering phase balancing and peak shaving is proposed. In each iteration, the house energy management system (HEMS) installed in each house minimizes its electricity
-costs and the costs associated with the discomfort of customers due to deviations in indoor temperature from customers’ set
-points. At the community level, the microgrid central controller (MCC) schedules the distributed energy resources (DERs) and
-energy storage based on the received load profiles from customers and the forecast energy price at the point of common coupling. The MCC updates the energy price for each phase based on the amount of unbalanced power between generation and
-consumption. The updated energy price and unbalanced power for each phase are distributed to the HEMSs on corresponding
-phases. When the optimization converges, the unbalanced power of each phase is close to zero. Meanwhile, the schedules of
-DERs, energy storage systems and the energy consumption of each house, are determined by the MCC and HEMSs, separately.
-In particular, the phase balancing and peak shaving are considered in the proposed distributed energy management model. The
-effectiveness of the proposed distributed energy management has been demonstrated by case studies."
+abstract = "In this paper, a distributed energy management for community microgrids considering phase balancing and peak shaving is proposed. In each iteration, the house energy management system (HEMS) installed in each house minimizes its electricity costs and the costs associated with the discomfort of customers due to deviations in indoor temperature from customers’ set points. At the community level, the microgrid central controller (MCC) schedules the distributed energy resources (DERs) and energy storage based on the received load profiles from customers and the forecast energy price at the point of common coupling. The MCC updates the energy price for each phase based on the amount of unbalanced power between generation and consumption. The updated energy price and unbalanced power for each phase are distributed to the HEMSs on corresponding phases. When the optimization converges, the unbalanced power of each phase is close to zero. Meanwhile, the schedules of DERs, energy storage systems and the energy consumption of each house, are determined by the MCC and HEMSs, separately. In particular, the phase balancing and peak shaving are considered in the proposed distributed energy management model. The effectiveness of the proposed distributed energy management has been demonstrated by case studies."
 
 abstract_short = "This paper proposes a distributed energy management for community microgrids considering phase balancing and peak shaving."
 
