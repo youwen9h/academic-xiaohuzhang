@@ -52,7 +52,7 @@ tags = ["Microgrids"]
 
 # Links (optional).
 url_pdf = "https://digital-library.theiet.org/content/journals/10.1049/iet-gtd.2018.5881"
-#url_preprint = "https://www.osti.gov/pages/servlets/purl/1339363"
+url_preprint = ""https://xiaohuzhang.netlify.com/publication/2019_GD_IET/IET_gd_2019.pdf""
 #url_code = ""
 #url_dataset = ""
 #url_project = ""
