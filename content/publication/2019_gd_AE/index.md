@@ -5,7 +5,8 @@ date = 2019-01-05T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Guodong Liu","Tao Jiang","Thomas Ollis"," **Xiaohu Zhang**_", "Kevin Tomsovic"]
+#authors = ["Guodong Liu","Tao Jiang","Thomas Ollis"," **Xiaohu Zhang**_", "Kevin Tomsovic"]
+authors = ["Guodong Liu","Tao Jiang","Thomas Ollis","__**Xiaohu Zhang**__", "Kevin Tomsovic"]
 
 # Publication type.
 # Legend:
