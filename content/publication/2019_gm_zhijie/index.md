@@ -24,6 +24,7 @@ publication_short = "*IEEE PES GM*"
 
 # Abstract and optional shortened version.
 abstract = "Voltage stability refers to the ability of a power system to maintain acceptable voltages among all buses under normal operating conditions and after a disturbance. In this paper, a measurement-based voltage stability assessment (VSA) framework using online deep learning is developed. Since the topology changes induced by transmission contingencies may significantly reduce the voltage stability margin, different network topologies under different operating conditions are involved in our training dataset. To achieve high accuracy in the training process, a gradient-based adaptive learning algorithms is adopted. Numerical results based on the NETS-NYPS 68-bus system demonstrate the effectiveness of the proposed VSA approach. Moreover, with the proximal function modified adaptively, the adaptive algorithm with momentum outperforms traditional nonadaptive algorithms whose learning rate is constant."
+
 abstract_short = "In this paper, a measurement-based voltage stability assessment (VSA) framework using online deep learning is developed."
 
 # Is this a selected publication? (true/false)
