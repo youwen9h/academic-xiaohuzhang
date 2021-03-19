@@ -13,7 +13,7 @@ weight = 5
     "Data Analytics",
     "Optimization",
     "Energy Storage",
-    "ELectricity Market",
+    "Electricity Market",
     "Power System Planning"
   ]
 
