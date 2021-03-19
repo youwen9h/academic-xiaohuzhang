@@ -10,11 +10,11 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Power System Planning",
-    "Voltage Stability",
+    "Data Analytics",
+    "Optimization",
     "Energy Storage",
-    "PMU Data Analytics",
-    "Optimization"
+    "ELectricity Market",
+    "Power System Planning"
   ]
 
 # List your qualifications (such as academic degrees).
