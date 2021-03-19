@@ -38,6 +38,6 @@ weight = 5
 
 # Biography
 
-I am a power system research engineer at [Global Energy Interconnection Research Institute North America (GEIRI North America)](https://www.geirina.net/research/2). My research interests include power system planning, voltage stability, energy storage, PMU data analytics and optimization.
+I am a senior software engineer at [GE Digital](https://www.ge.com/digital/). My research interests focus on the intersection of energy systems, operations research and machine learning.
 
 
