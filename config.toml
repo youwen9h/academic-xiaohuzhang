@@ -52,7 +52,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Xiaohu Zhang"
-  role = "Senior Research Engineer"
+  role = "Senior Software Engineer"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -62,8 +62,8 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "xiaohu.zhang@geirina.net"
-  address = "250 W Tasman Dr, Ste 100, San Jose, CA, 95134, USA"
+  email = "xiaohu.zhang@ge.com"
+  #address = ""
   office_hours = ""
   phone = ""
   skype = "youwen9h"
