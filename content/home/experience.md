@@ -29,7 +29,7 @@ date_format = "January 2006"
   description = """
   Perform R&D/Engineering projects on the following topics:
   
-  * Development of next generation of electricity market management system (MMS)                                                     
+  * Development of next generation electricity market management system (MMS)                                                     
   """
 
 [[experience]]
