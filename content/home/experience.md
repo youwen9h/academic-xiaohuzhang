@@ -59,7 +59,7 @@ date_format = "January 2006"
   
   * PMU data analytics
   * Development of Measurement Based Voltage Stability Monitoring Platform
-  * An Integrated Online DSA System for Security and Risk Assessment
+  * An Integrated Online Dynamic Security Assessment (DSA) System for Security and Risk Assessment
   """
   
   [[experience]]
