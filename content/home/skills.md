@@ -30,7 +30,7 @@ weight = 7
 [[feature]]
   icon = ""
   icon_pack = ""
-  name = "Java, C++, Python, SQL "
+  name = "Java, C++, Python, SQL, MATLAB"
   description = ""
 
 [[feature]]
