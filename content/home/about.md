@@ -14,7 +14,7 @@ weight = 5
     "Optimization",
     "Energy Storage",
     "Electricity Market",
-    "Power System Planning"
+    "Transmission Expansion Planning"
   ]
 
 # List your qualifications (such as academic degrees).
