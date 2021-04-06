@@ -83,7 +83,7 @@ date_format = "January 2006"
   description = """
   Perform research projects on the following topics:
   
-  * Electric power system operations with FACTS 
+  * Electric power system operations with FACTS devices 
   * Power system transmission expansion planning
   * Large-scale integration of renewable energy resources
   * Power electronics converter-based power system emulation

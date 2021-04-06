@@ -36,4 +36,4 @@ summary = ""
 # Set captions for image gallery.
 
 +++
-Our paper "Distributed Energy Management for Community Microgrids Considering Phase Balancing and Peak Shaving" is accepted by IET Generation, Transmission & Distribution. A pre-print can be found at https://xiaohuzhang.netlify.com/publication/2019_GD_IET/IET_gd_2019.pdf.
+Our paper entitled "Distributed Energy Management for Community Microgrids Considering Phase Balancing and Peak Shaving" is accepted by IET Generation, Transmission & Distribution. A pre-print can be found at https://xiaohuzhang.netlify.com/publication/2019_GD_IET/IET_gd_2019.pdf.
