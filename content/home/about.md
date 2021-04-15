@@ -1,5 +1,5 @@
 +++
-# About/Biography widget.
+# About/Biography widget. This change is the modification on the remote master repo.
 widget = "about"
 active = true
 date = 2016-04-20T00:00:00
