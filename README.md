@@ -6,7 +6,7 @@
 
 [![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
 
-## Getting Started
+## Getting Started (This is just a test)
 
 The following two methods describe how to install in the cloud using your web browser and how to install on your PC using the Command Prompt/Terminal app.
 
@@ -17,7 +17,7 @@ The following two methods describe how to install in the cloud using your web br
 2. On GitHub, go to your newly created `academic-kickstart` repository and edit `config.toml` to personalize your site. Shortly after saving the file, your site will automatically update
 3. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn how to add Markdown content. For inspiration, refer to the [Markdown content](https://github.com/gcushen/hugo-academic/tree/master/exampleSite) which powers the [Demo](https://themes.gohugo.io/theme/academic/)
 
-### Install on your PC
+### Install on your PC or laptop
 
 Prerequisites:
 
@@ -50,3 +50,5 @@ Copyright 2017 [George Cushen](https://georgecushen.com).
 Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
 
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+
+// This sentence is added just for git exerciese.
