@@ -54,3 +54,5 @@ Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob
 // This sentence is added just for git exerciese.
 
 ##This change is from the local branch (testcase)
+
+## This is a second test change from the local branch (to test using git command for specified changes).
