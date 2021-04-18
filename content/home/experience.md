@@ -1,6 +1,7 @@
 +++
 # Experience widget.
 # This change is also the testcase change, but on a different files.
+# This is a second change. To test git command. The case with merge conflict.
 widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
