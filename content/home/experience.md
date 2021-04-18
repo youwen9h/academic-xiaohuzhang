@@ -1,5 +1,5 @@
 +++
-# Experience widget. Remote master also made this change, test conflict.
+# Experience widget. Remote master also made this change, test merge conflict.
 widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
