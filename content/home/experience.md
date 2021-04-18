@@ -1,5 +1,5 @@
 +++
-# Experience widget.
+# Experience widget. Remote master also made this change, test merge conflict.
 # This change is also the testcase change, but on a different files.
 # This is a second change. To test git command. The case with merge conflict.
 widget = "experience"  # Do not modify this line!
